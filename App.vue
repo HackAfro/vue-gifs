@@ -12,7 +12,7 @@
 
 <script>
   import Giphy from 'giphy-js-sdk-core';
-  import GifItem from './GifItem';
+  import GifItem from './components/GifItem';
   import Header from './components/header';
 
   const client = Giphy('TxuQbNU1nyDBwpqrcib61LxmOzsXTPEk');
